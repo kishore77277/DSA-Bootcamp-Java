@@ -6,10 +6,13 @@ public class Functions {
 
     public static void main(String[] args) {
 
-        System.out.println(getGrade(101));
-        System.out.println(getGrade(97));
-        System.out.println(getGrade(85));
-        System.out.println(getGrade(85));
+//        System.out.println(getGrade(101));
+//        System.out.println(getGrade(97));
+//        System.out.println(getGrade(85));
+//        System.out.println(getGrade(85));
+
+
+
     }
 
     // 1. Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.
